@@ -1,4 +1,4 @@
 test-repo
 =========
 
-THis is just a test for using Github.
+This is just a test for using Github.
